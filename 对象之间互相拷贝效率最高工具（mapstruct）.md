@@ -1,4 +1,4 @@
-
+﻿[
 @[TOC](对象之间互相拷贝效率最高工具（mapstruct）)
 # 目录结构介绍
 
@@ -310,3 +310,4 @@ lombok版本必须为1.16.16以上的高版本
 [4、SpringBoot 2.4.1整合 MapStruct 详细教程](https://blog.csdn.net/cs1742121097/article/details/112671780)
 [5、MapStruct文档（九）——高级映射选项](https://blog.csdn.net/sinat_32787481/article/details/110928756)
 [6、MapStruct 1.3.0.Final参考指南](http://www.kailing.pub/MapStruct1.3/index.html)
+]()
